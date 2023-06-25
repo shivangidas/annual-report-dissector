@@ -16,7 +16,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Deploy
 
-Run `ng deploy` to deploy the project on Github pages.
+Run `ng deploy` to deploy the project on Github pages. It starts the build and deploy workflow on Actions.
 
 ## Running unit tests
 
