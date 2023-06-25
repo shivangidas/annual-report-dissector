@@ -35,7 +35,7 @@ export class PdfPageComponent {
     });
   }
 
-  onOptionsSelected(value: string) {
-    this.search(value);
+  onFlagClick(event: any) {
+    this.search(event.target.value);
   }
 }
